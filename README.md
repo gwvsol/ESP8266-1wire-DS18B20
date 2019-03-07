@@ -7,6 +7,8 @@
 ***
 ### Схема включения DS18B20
 
+![esp8266-ds18b20](https://user-images.githubusercontent.com/13176091/53965098-3747d680-40f9-11e9-83d7-e3fb61a46e9d.png)
+
 
 
 
