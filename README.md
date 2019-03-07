@@ -19,6 +19,8 @@ if self.ow.crc8(self.buf):          # здесь возникает частая
 
 Библиотека используется так же как и стандартная [ds18x20.py](https://github.com/micropython/micropython/blob/master/drivers/onewire/ds18x20.py)
 
+[Описание в документации MicroPython](https://docs.micropython.org/en/latest/esp8266/quickref.html#onewire-driver)
+
 ### Пример использования
 ```python
 from machine import Pin
